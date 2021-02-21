@@ -3,7 +3,7 @@
 # This is a script that uses host command and find the details related to the domnain name
 
 # Asking for the domain name form the user
-echo -e "Please enter the DNS of the website: \c"
+echo -e "Please enter the DNS or IP address of the website: \c"
 read dns_name
 
 # Displaying the  details of the IP address for the entered domain name
